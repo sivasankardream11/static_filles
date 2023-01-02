@@ -1,0 +1,31 @@
+h1
+{
+    background-color: black;
+    color: azure;
+    width: auto;
+    padding-top: 20px;
+    padding-bottom:20px;
+    box-shadow: 20px;
+    border-radius:25px;
+}
+h1:hover
+{
+    background-color: blue;
+}
+img
+{
+    background-color: black;
+    color: azure;
+    width:300px;
+    height:200px;
+    padding-top: 20px;
+    padding-bottom:20px;
+    padding-left:20px;
+    padding-right:20px;
+    box-shadow: 20px;
+    border-radius:25px;
+}
+img:hover
+{
+    background-color:blue;
+}
